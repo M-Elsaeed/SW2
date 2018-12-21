@@ -1,0 +1,13 @@
+Using 4+1
+========
+Logical:
+class diagrams, and state diagrams DONE
+========
+process:
+activity diagram DONE
+========
+deployment:
+Component diagram DONE
+========
+implementation:
+deployment diagram. DONE
