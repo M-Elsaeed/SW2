@@ -1,0 +1,22 @@
+Upon analysis of user requirements, needed components were determined as shown above.
+
+
+
+Market Analysis:
+Security and DBMS components can be bought as COTS products.
+UI and Services components have to be developed from scratch due to the need of customization.
+
+============
+Upon purchasing of third-party Security and DBMS components, they were integrated and tested for compliance with the system.
+
+
+===================
+UI and Services components were designed as per user requirements, then implemented incrementally reguarly checking their compliance with our design.
+Upon Implementing the individual components, they were tested individually then integrated into the system and retested as a whole system of interacting components.
+
+
+
+Finally, 
+The System will be released and maintaince scheme will be followed to ensure integrity, security and reliablity of the system.
+
+
