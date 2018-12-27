@@ -1,0 +1,9 @@
+expert judment:
+
+ we consultant two experts in software development to get an estimate for our project's cost to compare it the previously calculated costs , which was based on our assumptions.
+The experts' estimates were close to our calculations.
+
+
+estimation by analogy:
+
+we searched for previous similar projects for online banking system, and comparet these project's actual costs with our estimation costs and it was almost the same to our calculations.
