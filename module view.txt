@@ -1,13 +1,12 @@
 decomposition:
 
 Bank branches: is a submodule of the online banking system
-clients'services: is a submodule of the online banking system
+public web server is a submodule of the online banking system
+internal DBMS is a submodule of the online banking system
 client's accounts:is a submodule of Bank branches
-pay services:is a sub module of client's services
-transfers:is a sub module of client's services
+bills services:is a sub module of client's services
+funds transfers services:is a sub module of client's services
 bank account services:is a sub module of client's services
-funds:is a sub module of transfers
-bills:is a sub module of pay service
 withdraw: is a sub module of bank account's services
 deposit:is a sub module of bank account's services
 cheque services :is a sub module of bank account's services
@@ -16,10 +15,8 @@ issue cheque:is a sub module of cheque services
 
 
 Uses:
-
-clients uses client's services to make transactions
-
-bank uses clients' accounts to get transctions' details 
+clients' devices use public web servers to communicate with  DBMS
+client's use gui to request account's services
 
 Layers:
 
