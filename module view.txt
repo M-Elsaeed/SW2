@@ -20,9 +20,12 @@ client's use gui to request account's services
 
 Layers:
 
-only bank and clients devices can use the main servers 
+only bank and clients devices can use the main servers to complete requests
 
-main servers use DBMS to complete customer's requests
+controller server use DBMS to store   customer's requests's data
+controller server can send messages to banks and clients devices 
+DBMS can send  information to the controller server
+both bank and clients devices cannot communicate directly with the DBMS
 
 Classes:
 class diagram ( el howa el inheritance)
