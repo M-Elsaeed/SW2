@@ -1,0 +1,72 @@
+state              description
+
+Login :  the system is waiting for the the user to enter his username and password. login page is displayed
+
+Home :  the user logged in. Home page is displayed
+
+account details:  user's personal details is displayed for him
+
+view bills : outstanding and paid bills are displayed for user
+
+pay bills: the user requested to pay due bills. pay bills form is displayed for user
+
+transfer funds: the user requested to transfer funds. transfer funds page is displayed for user
+
+funds details:  pay/receive funds form is displayed for user
+
+cheques: the user requested to access cheque services. cheque services page is displayed for user
+
+cheque services: issue/cash cheques form is displayed for user
+
+check balance: user's current balance is displayed for him
+
+deposit: deposit form is displayed for the user 
+
+withdraw : withdraw form is displayed for the user  
+
+request loan:  request loan form is displayed for user 
+
+view salary:  user's current salary is displayed for him
+
+
+============================================
+
+
+
+
+stimulus          description
+
+
+enter username and password:   user pressed the login button
+
+authentication confirmed:  user entered a correct username and password
+
+account info: user pressed the account information button
+
+check balance: the user pressed balance button 
+
+bills: the user pressed bills services button
+
+bill payment: the user selected a current due bill
+
+transfers : the user pressed transfer funds button
+
+funds details : the user selected either to recieve or send funds 
+
+cheques: the user pressed cheque services button
+
+cheque services : the user selected either to cash or issue a cheque
+
+deposit : the user pressed deposit button
+
+withdraw: the user pressed withdraw button
+
+salary : the user pressed view salary button
+
+request loan : the user pressed request loan button 
+
+exit: the user pressed the submit button for the current request.
+
+
+
+
