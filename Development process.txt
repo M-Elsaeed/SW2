@@ -1,22 +1,111 @@
-Upon analysis of user requirements, needed components were determined as shown above.
+
+
+( UPDATE) !!!
 
 
 
-Market Analysis:
+system requirements phase:
+
+user's requirements were collected and analyze thoroughly to ensure that the extracted requirements were as required by the user.
+requirement were then refined to find if there any components that satisfy the  required features for the system.
+ Components were selected carefully to meet our requirements and quality of the system
+
+ needed components were determined as shown: (list of components) 
+
+
+Market analysis:
+
 Security and DBMS components can be bought as COTS products.
 UI and Services components have to be developed from scratch due to the need of customization.
+========
 
-============
-Upon purchasing of third-party Security and DBMS components, they were integrated and tested for compliance with the system.
-
-
-===================
-UI and Services components were designed as per user requirements, then implemented incrementally reguarly checking their compliance with our design.
-Upon Implementing the individual components, they were tested individually then integrated into the system and retested as a whole system of interacting components.
+for  UI and Services components:
 
 
+analysis and design:
+each component wre designed indvidually 
+after that,system was analysed and then a conceptual architecture were designed, where system were decomposed into modules and submodules.
+after that, implementation architecture  were designed, where components were identified and implemented 
 
-Finally, 
-The System will be released and maintaince scheme will be followed to ensure integrity, security and reliablity of the system.
+finally, a deployment architecture were made to complete the design phase for the system
+
+=============
+
+Implementation :
+
+It was discovered that an adaptation was essentail for the existing components to be compatible with each other , so adapter adaptation method were used.
+
+Component interfaces for some components were modified were modified to be perfectly matched with other components' interfaces
+
+
+
+Integration:
+
+Integration of components were done in both the design and implementation phases to make  it easier during the testing phase
+However, an integration phase is required so components can be put toghether and integrated into the system framework
+
+Testing:
+
+testing was done throughout the  process; individual components were tested during the design phase and eash assembly were tested in the implementation phase.
+finally, the all system was tested during this phase.
+
+Release:
+
+the components were carefully packed  and prepared for installation and delievry
+
+Maintenance:
+System maintenace is done onthly by replacing an existin component or by introducing a new component to the system by findin a proper component, test it ,adopt it ,and integrate it into the system
+
+
+For security and DBMS:
+
+find :
+components that provide the needed functions and perfectly fit in our system were selected  carefully from the availble market's components 
+
+Select:
+
+Among the initial candidates components ,the most suitable components were selected to be used 
+
+verify:
+
+ each component functional properties were tested in isolation 
+
+new and old components were integrated in an assembly and  the whole system were tested 
+
+store:
+
+the selected components were stored in a component repositry 
+
+essential data about components was stoed as well like : test and tests results, purhcase date and components' performance.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
